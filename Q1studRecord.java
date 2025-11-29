@@ -1,6 +1,7 @@
 // Assignment 1: Student Class Design & Basic Operations
 // Name: Rashi Yadav
 // Roll Number: 2401350003
+// Btech CSE (FSD)
 
 import java.util.Scanner;
 
