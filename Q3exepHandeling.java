@@ -169,7 +169,7 @@ class MemberManager implements DataOperations {
     }
 }
 
-public class exepHandeling {
+public class Q3exepHandeling {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         MemberManager mm = new MemberManager();

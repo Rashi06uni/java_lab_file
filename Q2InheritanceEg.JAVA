@@ -148,7 +148,7 @@ class MemberManager implements DataOperations {
     }
 }
 
-public class InheritanceEg {
+public class Q2InheritanceEg {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         MemberManager mm = new MemberManager();

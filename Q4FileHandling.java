@@ -153,7 +153,7 @@ class MemberManager {
     }
 }
 
-public class FileHandling {
+public class Q4FileHandling {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         MemberManager mm = new MemberManager();

@@ -293,7 +293,7 @@ class StudentManager implements RecordActions {
     }
 }
 
-public class bankingsystem {
+public class Q5bankingsystem {
     private static final String DATA_FILE = "students.txt";
 
     public static void main(String[] args) {
