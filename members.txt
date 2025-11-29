@@ -1,0 +1,3 @@
+102,KANU,Mathematics,92.0
+101,RARA,Computer Science,85.5
+103,SHIVI,Physics,67.8
